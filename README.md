@@ -1,5 +1,7 @@
 # TrilloBooking
 
+GitHub pages link for preview : https://2xg-dev.github.io/TrilloBooking/
+
 Simple static website created using HTML , CSS and SCSS
 
 Website is fully responsive and features a header , a side navigation and a main view
